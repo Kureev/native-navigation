@@ -6,7 +6,6 @@
 //  Copyright © 2016 Airbnb. All rights reserved.
 //
 
-import React
 import UIKit
 
 private let VERSION: Int = 2
